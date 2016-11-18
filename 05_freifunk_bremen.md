@@ -20,8 +20,8 @@ erstes dokumentiertes Treffen am 20.12.2013
 
 
 # aktuelle Daten
-* &uuml;ber 340 aktive Knoten; &uuml;ber 400 insgesamt
-* knapp 800 Clients
+* ~ 650 aktive Knoten;  ~ 730 Knoten insgesamt
+* meist über 1000 Clients
 * l&auml;ngster Link: 744m
 * 6 Gateways, mit teilweise
   * direktem Internetanschluss
